@@ -30,7 +30,7 @@
     For example:
     ```
     factorial of 6 will be 1 * 2 * 3 * 4 * 5 * 6 = 720
-    Factorial of 10 will be 1 * 2 * 3 * 4 * 5 * 6 * 7 * 8 * 9 = 362880
+    Factorial of 10 will be 1 * 2 * 3 * 4 * 5 * 6 * 7 * 8 * 9 * 10 = 362880
     ```
 
     Write a Python code to calculate the factorial of 15
