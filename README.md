@@ -11,7 +11,7 @@
 
     - Create a variable `friend_name` that has your friend’s name
     - Create a variable `friend_age` that has your friend’s age
-    - Create a variable `friend_later_age` that has your friend’s age in 10 years (Use Math please)
+    - Create a variable `friend_later_age` that has your friend’s age in 10 years (Please use Math)
     - Print the following
       ```
       Hi, friend_name. In 10 years, you will be friend_later_age years old
