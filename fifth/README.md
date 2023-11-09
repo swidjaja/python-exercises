@@ -27,4 +27,4 @@
 
 4. A volume of a sphere is defined as `4/3 x π x r3` , where `π = 3.14` and r is the radius of the sphere. Write Python code to calculate the volume of a sphere with radius = 15 (answer: 14130.0 )
 
-5. Write a Python code to swap two numbers by using temporary variable
+5. Write a Python code to swap two numbers by using temporary variable (Hint: remember the chicken and salad lunch swap exercise)
